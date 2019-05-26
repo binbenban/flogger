@@ -1,0 +1,10 @@
+FLASK_APP='manage.py'
+FLASK_ENV=development
+SECRET_KEY=fff
+DB_USERNAME=flogger_user
+DB_PASSWORD=flogger_password
+DB_HOST=localhost
+DATABASE_NAME=flogger_password
+MYSQL_ROOT_PASSWORD=199955
+BLOG_NAME='The Flogger Blog'
+BLOG_POST_IMAGE_PATH='/Users/bin_wang/Documents/flogger/static/images/upload'
